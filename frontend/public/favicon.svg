@@ -1,0 +1,23 @@
+<svg width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="32" height="32" rx="7" fill="#111C25" />
+  <!-- Document with missing right notch -->
+  <path
+    d="M 6 4 H 16 L 22 10 V 13 H 15 V 19 H 22 V 27 C 22 27.6 21.6 28 21 28 H 7 C 6.4 28 6 27.6 6 27 V 4 Z"
+    fill="#142531"
+    stroke="#087F83"
+    stroke-width="1.3"
+  />
+  <path d="M 16 4 V 10 H 22" fill="#1C3647" stroke="#087F83" stroke-width="1.1" />
+  <!-- Content lines -->
+  <line x1="8" y1="9" x2="13" y2="9" stroke="#2A4D60" stroke-width="1.3" stroke-linecap="round" />
+  <line x1="8" y1="13" x2="12" y2="13" stroke="#2A4D60" stroke-width="1.3" stroke-linecap="round" />
+  <line x1="8" y1="23" x2="17" y2="23" stroke="#2A4D60" stroke-width="1.3" stroke-linecap="round" />
+  <!-- Missing Gap (Dashed) -->
+  <rect x="15" y="13" width="7" height="6" rx="1" fill="none" stroke="#D59A55" stroke-width="1.1" stroke-dasharray="1.5 1.5" />
+  <rect x="24" y="5" width="3.5" height="3.5" rx="0.8" fill="#D59A55" />
+  <!-- Magnifying Lens Ring -->
+  <circle cx="19" cy="17" r="6" fill="rgba(8,127,131,0.2)" stroke="#087F83" stroke-width="1.6" />
+  <!-- Lens Handle -->
+  <line x1="23.5" y1="21.5" x2="29" y2="27" stroke="#E8EEF2" stroke-width="2.5" stroke-linecap="round" />
+  <line x1="23" y1="21" x2="25" y2="23" stroke="#D59A55" stroke-width="2.5" stroke-linecap="round" />
+</svg>

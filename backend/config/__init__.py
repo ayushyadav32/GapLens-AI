@@ -1,0 +1,1 @@
+# GapLens AI Configuration
